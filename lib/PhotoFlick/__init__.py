@@ -15,7 +15,7 @@ __version__ = "0.0.1"
 
 
 ###############################################################################
-class PhotoFlick(object)
+class PhotoFlick(object):
     '''description'''
 
     settings = {}
